@@ -9,6 +9,7 @@ ___
   <li>Why use Github?</li> <br/>
   <li>Account Creation / Login </li> <br/>
   <li>Your First Repository</li> <br/>
+  <li>Structuring Your Repository</li> <br/>
   <li>Your First Commit</li> <br/>
   <li>What are Github Codespaces?</li> <br/>
   <li>Pull Requests</li> <br/>
