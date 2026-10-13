@@ -1,2 +1,7 @@
 title: null
 name: ""
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: abhinavs/moonwalk
