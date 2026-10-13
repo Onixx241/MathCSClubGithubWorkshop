@@ -36,12 +36,9 @@ ___
 
 Git is a `Source Control` software created in 2005 and widely used today to track changes to codebases and help developers collaborate.
 
-
 A `Repository` is a centralized storage for a codebase where all developers commit and pull changes from. This is the heart of source control !
 
-
 `Committing` changes means that you are pushing changes to the repository from your files (for example, changing a line of code) in order for Git to track your changes.
-
 
 `Pulling` changes from the repository means just that, retrieving all the changes made to the repository by other developers.
 
