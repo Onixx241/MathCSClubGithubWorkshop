@@ -67,6 +67,17 @@ Branches are always based off of other branches whether it be the master branch 
 
 ---
 
+<h2>Account Creation / Login</h2>
+
+Create your account at [Github Signup](https://github.com/signup).
+
+--
+
+<h2>Your First Repository</h2>
+
+
+
+---
 <h2>Resources</h2>
 
 https://learngitbranching.js.org/
