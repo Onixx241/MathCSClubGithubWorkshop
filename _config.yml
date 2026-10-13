@@ -1,2 +1,18 @@
 title: null
 name: ""
+
+repository: Onixx241/MathCSClubGithubWorkshop
+
+markdown: GFM
+
+plugins:
+  - jekyll-gfm-admonitions
+  - jekyll-optional-front-matter
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+  - .sass-cache/
+  - .jekyll-cache/
