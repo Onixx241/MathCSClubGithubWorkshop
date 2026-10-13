@@ -4,4 +4,4 @@ name: ""
 plugins:
   - jekyll-remote-theme
 
-remote_theme: abhinavs/moonwalk
+remote_theme: Helveg/jekyll-gfm-admonitions
