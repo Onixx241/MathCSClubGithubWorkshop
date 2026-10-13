@@ -71,7 +71,7 @@ Click the top right where your profile portrait is, go to repositories:
 <img width="742" height="731" alt="image" src="https://github.com/user-attachments/assets/c042d0d0-6e1e-4f09-a1b7-00ff8146f69d" />
 
 To create your repository, hit the `New` Button on the top right of the repositories screen:
-<img width="1598" height="729" alt="image" src="https://github.com/user-attachments/assets/10de8d30-84cb-4256-b5ac-59f4ad898604" />
+<img width="1400" height="729" alt="image" src="https://github.com/user-attachments/assets/10de8d30-84cb-4256-b5ac-59f4ad898604" />
 
 Set your repository name and description. Also configure your visibility, license and others:
 <img width="381" height="571" alt="image" src="https://github.com/user-attachments/assets/c927b01c-6289-417b-b0e9-6630b7312d84" />
