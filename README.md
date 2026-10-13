@@ -45,6 +45,8 @@ A `Repository` is a centralized storage for a codebase where all developers comm
 `Branches` are branched off versions of your codebase in your repository, usually used to separate production development and feature versions of your codebase.
 Branches are always based off of other branches whether it be the master branch or any other. `Merging` is the act of literally merging changes between two branches in your repository.
 
+`Pull Requests` are a big part of source control collaboration, allowing you or others to review changes from a branch before it gets merged into the main branch. 
+
 > [!NOTE]
 > Although this workshop is about GitHub, knowing these source control basics is very helpful to learning GitHub and getting comfortable with its source control features
 
