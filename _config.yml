@@ -1,7 +1,2 @@
 title: null
 name: ""
-
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: Helveg/jekyll-gfm-admonitions
