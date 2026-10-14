@@ -72,6 +72,7 @@ Create your account at [Github Signup](https://github.com/signup).
 
 Your profile is a very important part of your GitHub, since it's usually the first impression given of you to other people who view your work!
 
+<img width="797" height="367" alt="image" src="https://github.com/user-attachments/assets/40c54317-9e2c-46e0-8f55-c73bb96bee12" />
 
 
 ---
@@ -83,7 +84,8 @@ Click the top right where your profile portrait is, go to repositories:
 <img width="371" height="365" alt="image" src="https://github.com/user-attachments/assets/c042d0d0-6e1e-4f09-a1b7-00ff8146f69d" />
 
 To create your repository, hit the `New` Button on the top right of the repositories screen:
-<img width="600" height="340" alt="image" src="https://github.com/user-attachments/assets/10de8d30-84cb-4256-b5ac-59f4ad898604" />
+<img width="793" height="361" alt="image" src="https://github.com/user-attachments/assets/877273b9-a59f-4810-b69c-bee33621ee54" />
+
 
 Set your repository name and description. Also configure your visibility, license and others:
 <img width="381" height="571" alt="image" src="https://github.com/user-attachments/assets/c927b01c-6289-417b-b0e9-6630b7312d84" />
@@ -92,7 +94,23 @@ Set your repository name and description. Also configure your visibility, licens
 
 <h2>Structuring Your Repository</h2>
 
-To maintain a clean repository it's important to structure it correctly. Different approaches can be taken but my personal favorite is keeping the **ROOT** folder as the container to different parts of your repository such as the actual source, documentation and other things such as files to include or Readme's. A good rule of thumb is to keep your source code inside a folder called `src` in the root of your repository, and example files or documentation in either the root folder or a specified docs folder. 
+To maintain a clean repository it's important to structure it correctly. Different approaches can be taken but my personal favorite is keeping the **ROOT** folder as the container to different parts of your repository such as the actual source, documentation and other things such as files to include or Readme's. 
+
+> [!NOTE]
+> A good rule of thumb is to keep your source code inside a folder called `src` in the root of your repository, and example files or documentation in either the root folder or a specified docs folder.
+
+```
+ROOT
+|
+├── src/                      
+├── tests/                    
+├── docs/                    
+├── scripts/                  
+├── .gitignore                
+├── LICENSE                   
+└── README.md                 
+```
+
 
 <img width="924" height="424" alt="image" src="https://github.com/user-attachments/assets/ebe389e9-beed-4652-8e52-1a51490d1e49" />
 
