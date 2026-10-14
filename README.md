@@ -74,7 +74,14 @@ Your profile is a very important part of your GitHub, since it's usually the fir
 
 <img width="797" height="367" alt="image" src="https://github.com/user-attachments/assets/40c54317-9e2c-46e0-8f55-c73bb96bee12" />
 
-Make sure to put a good description about what you're interested in or what you're working on!
+Make sure to put a good description about what you're interested in or what you're working on! Also show off your best projects on your pinned !
+
+<h4>Contribution Graph</h4>
+
+<img width="983" height="573" alt="image" src="https://github.com/user-attachments/assets/f72d7283-30f6-4e02-97da-060bc3126b45" />
+
+The `Contribution Graph` is a good way to track your activity on your projects, although it should be noted that the contribution graph will only track commits to the main branches of your projects, feature branches and other branches will be ignored in this graph. However this will also pick up commits to other users projects.
+
 
 <h4>READMEs</h4>
 
