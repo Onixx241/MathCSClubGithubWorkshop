@@ -74,6 +74,21 @@ Your profile is a very important part of your GitHub, since it's usually the fir
 
 <img width="797" height="367" alt="image" src="https://github.com/user-attachments/assets/40c54317-9e2c-46e0-8f55-c73bb96bee12" />
 
+Make sure to put a good description about what you're interested in or what you're working on!
+
+<h4>READMEs</h4>
+
+A `README` is an important file on GitHub ( This workshop's site was made in a README! ) which usually uses [GitHub Markdown formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+`READMEs` are used for everything from customizing your profile, to documentation for repositories to simple websites hosted on `GitHub Pages`.
+
+A good mature repository usually has a well formatted `README` explaining the repository and its usage, as well as instructions on building the project if applicable.
+
+When customizing your GitHub profile, take advantage of the `README` to make your profile stand out!
+
+> [!NOTE]
+> To create your profile `README` create a new repository (covered in next section) and name the repository exactly the same as your GitHub username.
+
 
 ---
 
