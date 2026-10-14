@@ -78,9 +78,10 @@ Make sure to put a good description about what you're interested in or what you'
 
 <h4>Contribution Graph</h4>
 
-<img width="983" height="573" alt="image" src="https://github.com/user-attachments/assets/f72d7283-30f6-4e02-97da-060bc3126b45" />
+<img width="491" height="286" alt="image" src="https://github.com/user-attachments/assets/f72d7283-30f6-4e02-97da-060bc3126b45" />
 
 The `Contribution Graph` is a good way to track your activity on your projects, although it should be noted that the contribution graph will only track commits to the main branches of your projects, feature branches and other branches will be ignored in this graph. However this will also pick up commits to other users projects.
+
 
 
 <h4>READMEs</h4>
