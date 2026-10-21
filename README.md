@@ -273,7 +273,7 @@ The link to all the benefits and how to sign up is in the resources section belo
 
 <h2>End / Questions / My Email</h2>
 
-# My Email: onix.torres88@login.cuny.edu
+# My Email: ONIX.TORRES88@stu-mail.bcc.cuny.edu
 Feel free to email me whenever you have any questions!
 
 ---
