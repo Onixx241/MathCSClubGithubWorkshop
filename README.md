@@ -124,9 +124,9 @@ To maintain a clean repository it's important to structure it correctly. Differe
 > [!NOTE]
 > A good rule of thumb is to keep your source code inside a folder called `src` in the root of your repository, and example files or documentation in either the root folder or a specified docs folder.
 
-```
+
 ROOT
-|
+
 ├── src/                      
 ├── tests/                    
 ├── docs/                    
@@ -134,7 +134,7 @@ ROOT
 ├── .gitignore                
 ├── LICENSE                   
 └── README.md                 
-```
+
 
 
 <img width="924" height="424" alt="image" src="https://github.com/user-attachments/assets/ebe389e9-beed-4652-8e52-1a51490d1e49" />
@@ -147,11 +147,18 @@ ROOT
 
 <h3>How To Set Up A Codespace</h3>
 
+For a fresh repository:
+1. Press create a codespace.
+2. Confirm your choice on the next screen.
+3. That's it!
+
+
+After your first upload / existing repos:
 1. Go to your repository and hit the code button.
 2. Go to the `Codespace` tab.
 3. Press the plus icon to create a new `Codespace`, it'll open automatically.
 
-<img width="585" height="285" alt="image" src="https://github.com/user-attachments/assets/902914b6-0a13-499e-9d2f-e28195f10b15" />
+<img width="803" height="517" alt="image" src="https://github.com/user-attachments/assets/976d9296-3c9d-44ce-9842-9751d7674611" />
 <img width="1277" height="635" alt="image" src="https://github.com/user-attachments/assets/4961dcfc-b42e-4944-a3ef-e838cd6cb03b" />
 
 
